@@ -128,13 +128,6 @@ main_header_left button :hover{
     filter: drop-shadow(0 0.5rem 1rem rgba(0,0,0,0.3) );
 }
 
-
-/* error page style */
-/* .errorimg{
-    width: 30rem;
-    height: 50rem;
-
-} */
 /* CSS styles for the search bar */
 .temp_form {
     display: flex;
